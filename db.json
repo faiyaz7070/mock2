@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "yogesh",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD",
+      "id": 1
+    },
+    {
+      "name": "faiyaz",
+      "age": "24",
+      "place": "bihar",
+      "batch": "WEB-22",
+      "profession": "Student",
+      "id": 2
+    },
+    {
+      "name": "kumar sanu",
+      "age": "29",
+      "place": "mumbai",
+      "batch": "WEB-21",
+      "profession": "Backend",
+      "id": 3
+    }
+  ],
+  "admins": []
+}
